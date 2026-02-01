@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Projects"
+    url: /portfolio/
+  - title: "Notes"
+    url: /year-archive/
+  - title: "Contact"
+    url: /contact/
