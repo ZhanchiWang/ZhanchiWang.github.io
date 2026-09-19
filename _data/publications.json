@@ -1,0 +1,319 @@
+[
+  {
+    "id": "wang2026_1",
+    "title": "A Unified Multi-Dynamics Framework for Perception-Oriented Modeling in Tendon-Driven Continuum Robots",
+    "authors": [
+      "Ibrahim Alsarraj",
+      "Yuhao Wang",
+      "Abdalla Swikir",
+      "Cesare Stefanini",
+      "Dezhen Song",
+      "Zhanchi Wang",
+      "Ke Wu"
+    ],
+    "date": "2026-06-08",
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "article",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11553391/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:UebtZRa9Y70C",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2026_2",
+    "title": "De-occlusion and Image-based Static Shape Control for Soft Robots under Partial Observability",
+    "authors": [
+      "Xiaolong Zhu",
+      "Richard Marques Monteiro",
+      "Zhanci Wang",
+      "Yunqi Huang",
+      "Thomas George Thuruthel"
+    ],
+    "date": "2026-04-07",
+    "venue": "2026 IEEE 9th International Conference on Soft Robotics (RoboSoft)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11522844/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:Zph67rFs4hoC",
+    "pages": "201-206",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2026_3",
+    "title": "Lightweight Learning From Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping",
+    "authors": [
+      "Liudi Yang",
+      "Yang Bai",
+      "Yuhao Wang",
+      "Ibrahim Alsarraj",
+      "Gitta Kutyniok",
+      "Zhanchi Wang",
+      "Ke Wu"
+    ],
+    "date": "2026-03-26",
+    "venue": "IEEE Robotics and Automation Letters",
+    "type": "article",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11456485/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:roLk4NBRz8UC",
+    "volume": "11",
+    "number": "6",
+    "pages": "6720-6727",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2025_4",
+    "title": "Grasping by spiraling: reproducing elephant movements with rigid-soft robot synergy",
+    "authors": [
+      "Huishi Huang",
+      "Haozhe Wang",
+      "Chongyu Fang",
+      "Mingge Yan",
+      "Ruochen Xu",
+      "Yiyuan Zhang",
+      "Zhanchi Wang",
+      "Fengkang Ying",
+      "Jun Liu",
+      "Cecilia Laschi",
+      "Marcelo H Ang Jr"
+    ],
+    "date": "2025-07-03",
+    "venue": "npj Robotics",
+    "type": "article",
+    "url": "https://www.nature.com/articles/s44182-025-00038-z",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:LkGwnXOMwfcC",
+    "volume": "3",
+    "number": "1",
+    "pages": "18",
+    "publisher": "Nature Publishing Group UK"
+  },
+  {
+    "id": "wang2025_5",
+    "title": "SpiRobs: Logarithmic Spiral-shaped Robots for Versatile Grasping Across Scales",
+    "authors": [
+      "Zhanchi Wang",
+      "Nikolaos M Freris",
+      "Xi Wei"
+    ],
+    "date": "2025-04-18",
+    "venue": "Device",
+    "type": "article",
+    "url": "https://www.cell.com/device/fulltext/S2666-9986(24)00603-3",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "id": "wang2024_6",
+    "title": "Kinematic modeling and control of a soft robotic arm with non-constant curvature deformation",
+    "authors": [
+      "Zhanchi Wang",
+      "Gaotian Wang",
+      "Xiaoping Chen",
+      "Nikolaos M Freris"
+    ],
+    "date": "2024-05-13",
+    "venue": "2024 IEEE international conference on robotics and automation (ICRA)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10611049/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:ufrVoPGSRksC",
+    "pages": "12749-12755",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2024_7",
+    "title": "Exploiting frictional effects to reproduce octopus-like reaching movements with a cable-driven spiral robot",
+    "authors": [
+      "Zhanchi Wang",
+      "Nikolaos M Freris"
+    ],
+    "date": "2024-04-14",
+    "venue": "2024 IEEE 7th International Conference on Soft Robotics (RoboSoft)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10522036/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:WF5omc3nYNoC",
+    "pages": "537-542",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2023_8",
+    "title": "Dynamic modeling and Control of a Soft Robotic Arm Using a Piecewise Universal Joint Model",
+    "authors": [
+      "Zhanchi Wang",
+      "Gaotian Wang",
+      "Xiaoping Chen",
+      "Nikolaos M Freris"
+    ],
+    "date": "2023-12-04",
+    "venue": "2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10354732/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "id": "wang2022_9",
+    "title": "Control of a Soft Robotic Arm Using a Piecewise Universal Joint Model",
+    "authors": [
+      "Zhanchi Wang",
+      "Gaotian Wang",
+      "Xiaoping Chen",
+      "Nikolaos M Freris"
+    ],
+    "date": "2022-01-05",
+    "venue": "arXiv preprint arXiv:2201.01480",
+    "type": "misc",
+    "url": "https://arxiv.org/abs/2201.01480",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:MXK_kJrjxJIC"
+  },
+  {
+    "id": "wang2021_10",
+    "title": "Unified Kinematic and Dynamical Modeling of a Soft Robotic Arm by a Piecewise Universal Joint Model",
+    "authors": [
+      "Zhanchi Wang",
+      "Gaotian Wang",
+      "Nikolaos M Freris"
+    ],
+    "date": "2021-09-13",
+    "venue": "arXiv preprint arXiv:2109.05791",
+    "type": "misc",
+    "url": "https://arxiv.org/abs/2109.05791",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+    "id": "wang2021_11",
+    "title": "Hierarchical control of soft manipulators towards unstructured interactions",
+    "authors": [
+      "Hao Jiang",
+      "Zhanchi Wang",
+      "Yusong Jin",
+      "Xiaotong Chen",
+      "Peijin Li",
+      "Yinghao Gan",
+      "Sen Lin",
+      "Xiaoping Chen"
+    ],
+    "date": "2021-01",
+    "venue": "The International Journal of Robotics Research (IJRR)",
+    "type": "article",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0278364920979367",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:zYLM7Y9cAGgC",
+    "volume": "40",
+    "number": "1",
+    "pages": "411-434",
+    "publisher": "SAGE Publications"
+  },
+  {
+    "id": "wang2019_12",
+    "title": "A Parameterized Description of Force Output of Soft Arms in Full Workspace",
+    "authors": [
+      "Chengkai Xia",
+      "Yiming Li",
+      "Xiaotong Chen",
+      "Zhanchi Wang",
+      "Yusong Jin",
+      "Hao Jiang",
+      "Xiaoping Chen"
+    ],
+    "date": "2019",
+    "venue": "5th International Conference on Robot Intelligence Technology and Applications",
+    "type": "inproceedings",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-78452-6_36",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:UeHWp8X0CEIC",
+    "pages": "447-457",
+    "publisher": "Springer International Publishing"
+  },
+  {
+    "id": "wang2019_13",
+    "title": "A Two-Level Approach to Motion Planning of Soft Variable-Length Manipulators",
+    "authors": [
+      "Dengyuan Wang",
+      "Xiaotong Chen",
+      "Gefei Zuo",
+      "Xinghua Liu",
+      "Zhanchi Wang",
+      "Hao Jiang",
+      "Xiaoping Chen"
+    ],
+    "date": "2019",
+    "venue": "5th International Conference on Robot Intelligence Technology and Applications 5",
+    "type": "inproceedings",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-78452-6_34",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:9yKSN-GCB0IC",
+    "pages": "409-426",
+    "publisher": "Springer International Publishing"
+  },
+  {
+    "id": "wang2017_14",
+    "title": "Model-less feedback control for soft manipulators",
+    "authors": [
+      "Yusong Jin",
+      "Yufei Wang",
+      "Xiaotong Chen",
+      "Zhanchi Wang",
+      "Xinghua Liu",
+      "Hao Jiang",
+      "Xiaoping Chen"
+    ],
+    "date": "2017-09-24",
+    "venue": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8206124/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:2osOgNQ5qMEC",
+    "pages": "2916-2922",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2017_15",
+    "title": "Model-free control for soft manipulators based on reinforcement learning",
+    "authors": [
+      "Xuanke You",
+      "Yixiao Zhang",
+      "Xiaotong Chen",
+      "Xinghua Liu",
+      "Zhanchi Wang",
+      "Hao Jiang",
+      "Xiaoping Chen"
+    ],
+    "date": "2017-09-24",
+    "venue": "2017 IEEE/RSJ international conference on intelligent robots and systems (IROS)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8206123/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:u5HHmVD_uO8C",
+    "pages": "2909-2915",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2017_16",
+    "title": "A two-level approach for solving the inverse kinematics of an extensible soft arm considering viscoelastic behavior",
+    "authors": [
+      "Hao Jiang",
+      "Zhanchi Wang",
+      "Xinghua Liu",
+      "Xiaotong Chen",
+      "Yusong Jin",
+      "Xuanke You",
+      "Xiaoping Chen"
+    ],
+    "date": "2017-05-29",
+    "venue": "2017 IEEE international conference on robotics and automation (ICRA)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7989727/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:d1gkVwhDpl0C",
+    "pages": "6127-6133",
+    "publisher": "IEEE"
+  },
+  {
+    "id": "wang2016_17",
+    "title": "Design and simulation analysis of a soft manipulator based on honeycomb pneumatic networks",
+    "authors": [
+      "Hao Jiang",
+      "Xinghua Liu",
+      "Xiaotong Chen",
+      "Zhanchi Wang",
+      "Yusong Jin",
+      "Xiaoping Chen"
+    ],
+    "date": "2016-12-03",
+    "venue": "2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+    "type": "inproceedings",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7866347/",
+    "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:u-x6o8ySG0sC",
+    "pages": "350-356",
+    "publisher": "IEEE"
+  }
+]
