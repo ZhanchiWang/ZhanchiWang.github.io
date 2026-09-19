@@ -38,7 +38,12 @@
     "url": "https://ieeexplore.ieee.org/abstract/document/11522844/",
     "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:Zph67rFs4hoC",
     "pages": "201-206",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "equal_contributors": [
+      "Xiaolong Zhu",
+      "Richard Marques Monteiro",
+      "Zhanci Wang"
+    ]
   },
   {
     "id": "wang2026_3",
