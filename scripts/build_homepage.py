@@ -34,7 +34,18 @@ def build():
                 rows.append('</ul>')
             year = p['date'][:4]
             rows.append(f'<h3 class="year">{year}</h3><ul class="papers">')
-        authors = ', '.join('<strong>' + escape(a) + '</strong>' if a in ('Zhanchi Wang', 'Zhanci Wang', 'Z Wang') else escape(a) for a in p['authors'])
+        equal = p.get('equal_contributors', [])
+        corresponding = p.get('corresponding_authors', [])
+        assert set(equal + corresponding).issubset(p['authors']), 'Unknown annotated author'
+        author_labels = []
+        for a in p['authors']:
+            label = '<strong>' + escape(a) + '</strong>' if a in ('Zhanchi Wang', 'Zhanci Wang', 'Z Wang') else escape(a)
+            if a in equal:
+                label += '<sup title="Equal contribution">*</sup>'
+            if a in corresponding:
+                label += '<sup title="Corresponding author">&dagger;</sup>'
+            author_labels.append(label)
+        authors = ', '.join(author_labels)
         bib = bibtex(p)
         citations.append(bib)
         (bibdir / (p['id'] + '.bib')).write_text(bib, encoding='utf-8')

@@ -16,7 +16,11 @@
     "type": "article",
     "url": "https://ieeexplore.ieee.org/abstract/document/11553391/",
     "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VRPyvDAAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=VRPyvDAAAAAJ:UebtZRa9Y70C",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "corresponding_authors": [
+      "Zhanchi Wang",
+      "Ke Wu"
+    ]
   },
   {
     "id": "wang2026_2",
@@ -56,7 +60,11 @@
     "volume": "11",
     "number": "6",
     "pages": "6720-6727",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "corresponding_authors": [
+      "Zhanchi Wang",
+      "Ke Wu"
+    ]
   },
   {
     "id": "wang2025_4",
